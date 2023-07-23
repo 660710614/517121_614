@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("Hello World");
-
+    printf("660710614 Phutawan Siriprant"); 
     return 0;
 }
